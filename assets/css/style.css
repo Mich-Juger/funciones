@@ -1,0 +1,13 @@
+#cuadros {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#cuadros > div {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin: 5px;
+}
